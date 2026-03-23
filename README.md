@@ -1,5 +1,3 @@
-# .cryptoracle
-Cryptoracle Introduction  Cryptoracle: Private Domain Data Assetization — Transforming Private Data from “Fragmented Information” into “Actionable, Predictive Decision Assets” (of data, by data, for data). 
 # Narrative Intelligence Data Infrastructure for Institutional Crypto Markets
 
 ## 1. The Institutional Crypto Data Gap
