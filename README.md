@@ -1,7 +1,7 @@
 # .cryptoracle
 Cryptoracle Introduction  Cryptoracle: Private Domain Data Assetization — Transforming Private Data from “Fragmented Information” into “Actionable, Predictive Decision Assets” (of data, by data, for data). 
 Narrative Intelligence Data Infrastructure for Institutional Crypto Markets
-1. The Institutional Crypto Data Gap
+## 1. The Institutional Crypto Data Gap
 
 Institutional participation in digital asset markets is accelerating globally.
 However, the data infrastructure supporting institutional decision-making in crypto remains fundamentally incomplete.
@@ -20,7 +20,7 @@ This structural shift creates a critical informational gap for institutional inv
 
 AIVIX identifies this gap as the absence of a standardized data layer capable of quantifying market narrative dynamics.
 
-2. Narrative Intelligence as a New Financial Data Category
+## 2. Narrative Intelligence as a New Financial Data Category
 
 AIVIX introduces and defines a new category of financial data:
 
@@ -40,7 +40,7 @@ Market attention concentration
 
 Through this framework, AIVIX positions Narrative Intelligence as a foundational layer in next-generation financial data infrastructure.
 
-3. Why Traditional Crypto Data is Insufficient
+## 3. Why Traditional Crypto Data is Insufficient
 
 Current institutional crypto data stacks typically include:
 
@@ -60,7 +60,7 @@ This phenomenon is particularly evident in altcoin cycles, thematic rotations, a
 
 Without Narrative Intelligence Data, institutional investors operate with incomplete situational awareness.
 
-4. The AIVIX Narrative Intelligence Framework
+## 4. The AIVIX Narrative Intelligence Framework
 
 To address this structural gap, AIVIX has developed a proprietary Narrative Intelligence framework based on:
 
@@ -84,7 +84,7 @@ A driver of volatility regimes
 
 A catalyst for cross-asset capital rotation
 
-5. Cryptoracle: Operationalizing Narrative Intelligence
+## 5. Cryptoracle: Operationalizing Narrative Intelligence
 
 The Cryptoracle dataset, developed by AIVIX, represents the first institutional-grade implementation of Narrative Intelligence Data.
 
@@ -103,7 +103,7 @@ By operationalizing Narrative Intelligence, Cryptoracle extends the institutiona
 For quantitative teams, Cryptoracle introduces a new factor domain.
 For discretionary investors, it provides enhanced contextual awareness of market structure.
 
-6. Institutional Adoption and Strategic Implications
+## 6. Institutional Adoption and Strategic Implications
 
 As institutional capital continues to enter digital asset markets, demand for standardized behavioral datasets is expected to grow.
 
@@ -123,7 +123,7 @@ Strengthen risk monitoring capabilities
 
 Through Cryptoracle, AIVIX provides institutions with structured access to this emerging data domain.
 
-7. AIVIX as Narrative Intelligence Infrastructure Provider
+## 7. AIVIX as Narrative Intelligence Infrastructure Provider
 
 AIVIX positions itself as a long-term infrastructure provider in the evolving landscape of digital financial data.
 
